@@ -252,6 +252,7 @@ button:focus {
 .navbar{
     -webkit-transition: .3s;
     transition: .3s;
+  background-color: rgba(0, 0, 0, 0.5)
   
 }
 .navbar-brand.logo img {
