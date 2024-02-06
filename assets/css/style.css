@@ -252,6 +252,9 @@ button:focus {
 .navbar{
     -webkit-transition: .3s;
     transition: .3s;
+   position: sticky;
+    top: 0;
+    z-index: 100;
 }
 .navbar-brand.logo img {
     max-height: 40px;
