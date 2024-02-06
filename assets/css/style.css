@@ -254,10 +254,7 @@ button:focus {
     transition: .3s;
    position: sticky;
     top: 0;
-    z-index: 100;
-   background-color: rgba(0, 0, 0, 0.5); 
-  opacity: 1; 
-  transition: opacity 0.3s;
+    z-index: 100; 
   
 }
 .navbar-brand.logo img {
